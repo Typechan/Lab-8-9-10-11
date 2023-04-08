@@ -1,0 +1,4 @@
+alishev: 1
+chip: 1
+potato: 1
+rakhat: 1
